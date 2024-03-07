@@ -103,6 +103,7 @@ clean:
 	@find . -name '*.o' -exec $(RM) {} +
 	@find . -name '*.a' -exec $(RM) {} +
 	@find . -name '*.so' -exec $(RM) {} +
+	@find . -name '*.out' -exec $(RM) {} +
 	@find . -name '*.pyc' -exec $(RM) {} +
 	@find . -name '*.pyo' -exec $(RM) {} +
 	@find . -name '*.bak' -exec $(RM) {} +

@@ -67,6 +67,8 @@ __pycache__
 # Temporary stuff
 tmp
 *.tmp
+*.out
+*.log
 
 # Logs
 logs
