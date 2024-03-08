@@ -2,6 +2,7 @@
 
 # See: https://gist.github.com/stettberger/e6f2fe61206471e22e9e6f1926668093
 # See: https://stackoverflow.com/questions/10374005/how-to-trace-function-call-in-c
+# See: https://sourceware.org/gdb/current/onlinedocs/gdb.html/Python.html
 
 # Example Invocation:
 #
